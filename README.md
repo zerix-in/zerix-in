@@ -13,7 +13,7 @@ At **Zerix Technologies**, we are a leading software development company deliver
 - **Mission**: To craft innovative, user-centric software and tools that drive business growth and digital transformation.
 - **Expertise**: Full-cycle software development, project management solutions, and cutting-edge technologies like AI, IoT, and cloud computing.
 - **Clients**: Serving startups, SMEs, and enterprises across industries like healthcare, fintech, e-commerce, and more.
-- **Global Reach**: Headquartered in \[Your City/Country\], with a network of 100+ skilled engineers worldwide.
+- **Global Reach**: Headquartered in GURUGRAM, with a network of 100+ skilled engineers worldwide.
 
 ## 🛠️ Our Services
 
